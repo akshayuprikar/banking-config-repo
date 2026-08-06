@@ -4,9 +4,9 @@ server:
 spring:
 
   datasource:
-    url: jdbc:mysql://localhost:3306/notification_db
+    url: jdbc:mysql://localhost:3306/notificationbanking_db
     username: root
-    password: root
+    password: akshay
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
